@@ -1,6 +1,6 @@
 I am currently a freelancer, mainly using go and Vue for full stack development. I think open source is a matter of self-interest. I hope to improve myself and help others by participating in open source projects.
 - 👋 Hi, I’m @rotk2022
-- 👀 I’m interested in low code and edge computing
+- 👀 I’m interested in web3, low code and edge computing
 - 🌱 I’m currently learning rust
 - 💞️ I’m looking to collaborate on open sourse project
 - 📫 Email me at czq3163@163.com
